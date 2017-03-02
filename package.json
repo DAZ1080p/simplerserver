@@ -1,0 +1,11 @@
+{
+  "name": "simplerserver",
+  "version": "1.0.0",
+  "description": "Very Simpler Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darragh Mulcahy",
+  "license": "ISC"
+}
